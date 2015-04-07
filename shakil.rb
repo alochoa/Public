@@ -21,3 +21,22 @@ puts "Sparky says: WOOF WOOF WOOF"
 	puts "Sparky says: woof"
 end
 end
+
+
+# def get_input
+# 	@input = gets.chomp
+# end
+
+# get_input
+
+# while @input != 'go away'
+
+# 	if 
+# 		..
+# 	end
+
+# 	get_input
+		
+# 	end
+
+# end
